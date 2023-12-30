@@ -1,4 +1,6 @@
 import './css/cards.css';
+import './../index.css'
+
 import Card from './modules/card';
 
 function cards() {
