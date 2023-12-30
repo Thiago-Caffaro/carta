@@ -2,6 +2,9 @@
     font-family: 'fall is comming';
     src: url('/font/FallIsComingRegular-Mx9B.ttf');
 }
+body{
+    padding: 15px;
+}
 #title{
     margin: 15px;
     text-align: center;
@@ -15,8 +18,8 @@
     gap: 15px;
 }
 .card{
-    min-width: 250px;
-    min-height: 150px;
+    min-width: 180px;
+    min-height: 100px;
 
     display: flex;
     justify-content: center;
@@ -42,7 +45,7 @@
     background-color: dodgerblue;
     transform: rotateY(180deg);
     border-radius: 15px;    
-    font-size: 40px;
+    font-size: 2rem;
     color: aliceblue;
     font-family: 'fall is comming';
     display: flex;
