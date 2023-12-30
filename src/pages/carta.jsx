@@ -1,9 +1,10 @@
 import './../App.css'
 
-function carta() {
+function Carta() {
+  console.log('Carta');
   return (
     <div>aaaaa</div>
   )
 }
 
-export default carta
+export default Carta
