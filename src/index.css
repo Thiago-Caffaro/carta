@@ -9,6 +9,7 @@ body, html{
   margin: 0;
 }
 body{
+  padding: 25px;
   background-image: url('/images/cardboard_texture_by_fantasystock_d3j3ea5-fullview.jpg');
   background-size:contain;
   display: flex;
@@ -17,8 +18,7 @@ body{
 }
 .carta{
   color: black;
-  width: 700px;
-  margin: 25px;
+  max-width: 500px;
   padding: 20px;
   border-radius: 15px;
   box-shadow:10px 10px 50px black;

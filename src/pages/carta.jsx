@@ -4,7 +4,6 @@ import './../index.css'
 function Carta() {
   console.log('Carta');
   return (
-    <div>
       <div className="carta">
         <p>
             Então, queria juntar tudo de uma forma melhor nessa mensagem, tudo que penso, sinto, e gosto de você, também um pouco sobre nossa situação no geral, só para compensar as declarações genéricas ou estranhas que fiz, enfim.
@@ -23,7 +22,6 @@ function Carta() {
         </p>
         <p>Eu te amo, Gabi ❤ =D</p>
         </div>
-    </div>
   )
 }
 
